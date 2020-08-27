@@ -1,4 +1,4 @@
-# wtfcolts project release github
+# wtfcolts project release repository
 
 
 Project Saphon is the working name for a project I'm very slowly and very unprofessionally working on. Keep expectations low. 
